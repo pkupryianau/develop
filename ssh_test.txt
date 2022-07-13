@@ -1,0 +1,1 @@
+Test clone Git from  ssh connect
