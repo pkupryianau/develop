@@ -35,7 +35,7 @@ jobs:
       - name: Check
         run: aws --version
       - name: Check
-        run: zip
+        run: zip --version
         
        
 
